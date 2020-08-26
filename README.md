@@ -1,2 +1,2 @@
-# concat-list.js
-jQuery lib to collapse long html lists
+# trunclist.js
+jQuery lib to truncate/collapse long html lists and add an expand/collapse button
